@@ -1,2 +1,2 @@
-# vue-phone-shell
-A Vue-based phone shell component
+# Inrto
+> A Vue-based phone shell component
